@@ -1,0 +1,8 @@
+This game is a reaction/quick draw based game.The How To Play is in the options setting.
+
+When the "FIRE" text appears, press the SPACE button!
+If you press it too soon, you get penalized. 
+    When penalized, your character will not draw his gun and you will be unable to fire your weapon.
+    You then just accept your fate.
+There are 3 Levels to pass. Pass all 3 and win the game. Die and lose the game.
+Each Level gets progressively harder so make sure you sharpen you skills
