@@ -1,0 +1,22 @@
+Youtube Tutorials: 
+Making a Menu - Brackeys
+Shooting mechanics - Brackeys
+Animating - Brackeys
+Fading - Brackeys
+Adding sound effects - GamesPlusJames
+
+Sound effects used from youtube:
+	Undertale Sans theme
+	Oof 
+	
+Sound effects from : BFXR
+    Explosion and fire laser
+    
+Player, Enemy, Laser and other assets not noted designed by me using PIAPixelEditor
+
+Assets from Unity:
+	Used PIAPixelEditor
+Sprites:
+	Underwater Diving - Anismuz
+	Space BackGround - Anismuz
+	Explosion - Anisumz 
